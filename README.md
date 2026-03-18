@@ -2,7 +2,7 @@
 
 Materiales interactivos de la asignatura, publicados como sitio estático en GitHub Pages.
 
-🔗 **Sitio:** `https://TU_USUARIO.github.io/fundamentos-visualizacion-unir/`
+🔗 **Sitio:** `https://javicanton.github.io/fundamentos-visualizacion-unir/`
 
 ---
 
